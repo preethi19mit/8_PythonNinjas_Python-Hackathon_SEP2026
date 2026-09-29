@@ -10,12 +10,12 @@
 
 Heart failure (HF) is the single leading cause of emergency hospitalization, unplanned 30-day readmissions, and inpatient mortality worldwide. Hospitalized heart failure patients require rapid, precise clinical decisions within the first **2 hours of admission** to preserve myocardial tissue, prevent cardiorenal collapse, and avoid acute respiratory arrest.
 
-**CardioPulse Analytics** is an end-to-end clinical intelligence and bedside Clinical Decision Support System (CDSS) built by **Team Python Ninjas**. Designed to meet the Python Hackathon grading rubric across all 5 categories, the platform unifies:
-1. **Category 1 (100 pts):** Zero-Leakage Preprocessing & Clinical Range Validation (`8_Python_Ninjas_1.Cleaning.ipynb`)
-2. **Category 2 (50 pts):** 10 Descriptive Demographics & Inpatient Cohort Insights (`8_Python_Ninjas_2.Descriptive.ipynb`)
-3. **Category 3 (600 pts):** 30 Prescriptive Multivariate Statistical Proofs (`8_Python_Ninjas_3.Prescriptive.ipynb`)
-4. **Category 4 (900 pts):** Master 10-Hypothesis Machine Learning Predictive Suite (`8_Python_Ninjas_4.Predictive.ipynb`)
-5. **Category 5 (100 pts):** Interactive Bedside CDSS Simulator & 8-Module Dashboard (`8_Python_Ninjas_5_Dashboard.py` & `app.py`)
+**CardioPulse Analytics** is an end-to-end clinical intelligence and bedside Clinical Decision Support System (CDSS) built by **Team Python Ninjas**:
+1. **Category 1 :** Zero-Leakage Preprocessing & Clinical Range Validation (`8_Python_Ninjas_1.Cleaning.ipynb`)
+2. **Category 2 :** 10 Descriptive Demographics & Inpatient Cohort Insights (`8_Python_Ninjas_2.Descriptive.ipynb`)
+3. **Category 3 :** 30 Prescriptive Multivariate Statistical Proofs (`8_Python_Ninjas_3.Prescriptive.ipynb`)
+4. **Category 4 :** Master 10-Hypothesis Machine Learning Predictive Suite (`8_Python_Ninjas_4.Predictive.ipynb`)
+5. **Category 5 :** Interactive Bedside CDSS Simulator & 8-Module Dashboard (`8_Python_Ninjas_5_Dashboard.py` & `app.py`)
 
 ---
 
